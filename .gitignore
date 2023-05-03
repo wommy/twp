@@ -24,3 +24,7 @@
 *.sublime-workspace
 nbproject
 Thumbs.db
+
+# eleventy
+node_modules
+_site
